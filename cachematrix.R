@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## June 21, 2015, GT
+## R Programming @Coursera
+## Programming assignment 2, lexical scoping
+## Caching the inverse of a matrix
 
 ## Write a short comment describing this function
 
